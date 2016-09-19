@@ -1,0 +1,9 @@
+C:\C#\Chapter.13\EmmasEmbroidery\EmmasEmbroidery\bin\Debug\SunshineSubdivision.exe
+C:\C#\Chapter.13\EmmasEmbroidery\EmmasEmbroidery\bin\Debug\SunshineSubdivision.pdb
+C:\C#\Chapter.13\EmmasEmbroidery\EmmasEmbroidery\obj\Debug\SunshineSubdivision.Form1.resources
+C:\C#\Chapter.13\EmmasEmbroidery\EmmasEmbroidery\obj\Debug\SunshineSubdivision.Properties.Resources.resources
+C:\C#\Chapter.13\EmmasEmbroidery\EmmasEmbroidery\obj\Debug\EmmasEmbroidery.csproj.GenerateResource.Cache
+C:\C#\Chapter.13\EmmasEmbroidery\EmmasEmbroidery\obj\Debug\SunshineSubdivision.exe
+C:\C#\Chapter.13\EmmasEmbroidery\EmmasEmbroidery\obj\Debug\SunshineSubdivision.pdb
+C:\CSharp5\Chapter13\Solutions\ProgrammingExercises\EmmasEmbroidery\obj\Debug\SunshineSubdivision.exe
+C:\CSharp5\Chapter13\Solutions\ProgrammingExercises\EmmasEmbroidery\obj\Debug\SunshineSubdivision.pdb

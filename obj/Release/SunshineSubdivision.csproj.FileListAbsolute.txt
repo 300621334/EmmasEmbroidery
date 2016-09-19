@@ -1,0 +1,11 @@
+C:\CSharp3\Chapter12\CSharp3eChapter12Exercises\SunshineSubdivision\SunshineSubdivision\obj\Release\SunshineSubdivision.exe
+C:\CSharp3\Chapter12\CSharp3eChapter12Exercises\SunshineSubdivision\SunshineSubdivision\obj\Release\SunshineSubdivision.pdb
+C:\C#\Chapter.13\SunshineSubdivision\SunshineSubdivision\obj\Release\SunshineSubdivision.exe
+C:\C#\Chapter.13\SunshineSubdivision\SunshineSubdivision\obj\Release\SunshineSubdivision.pdb
+C:\C#\Chapter.13\SunshineSubdivision\SunshineSubdivision\bin\Release\SunshineSubdivision.exe
+C:\C#\Chapter.13\SunshineSubdivision\SunshineSubdivision\bin\Release\SunshineSubdivision.pdb
+C:\C#\Chapter.13\SunshineSubdivision\SunshineSubdivision\obj\Release\ResolveAssemblyReference.cache
+C:\C#\Chapter.13\SunshineSubdivision\SunshineSubdivision\obj\Release\SunshineSubdivision.Form1.resources
+C:\C#\Chapter.13\SunshineSubdivision\SunshineSubdivision\obj\Release\SunshineSubdivision.Properties.Resources.resources
+C:\C#\Chapter.13\SunshineSubdivision\SunshineSubdivision\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\C#\Chapter.13\SunshineSubdivision\SunshineSubdivision\obj\Release\GenerateResource-ResGen.write.1.tlog
